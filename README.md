@@ -1,6 +1,7 @@
 # MicroservicioHotelSwagger
 ## Resumen
 Microservicio Hotel que  recoge una lista de hoteles, actualiza la disponibilidad del hotel. 
+Incluye Swagger
 ## Estructura
 ### Paquetes
 * com.curso.inicio
