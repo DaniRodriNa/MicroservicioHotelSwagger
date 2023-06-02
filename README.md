@@ -6,6 +6,7 @@ Incluye Swagger
 ### Paquetes
 * com.curso.inicio
   - Clase **Application.java**
+  - Clase **SwaggerConfig.java**
 * com.curso.model
   - Clase **Hotel.java**
     - idHotel: numero entero, identificador del hotel
